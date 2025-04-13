@@ -1,0 +1,16 @@
+{
+  "../scss/style.scss": {
+    "file": "style-DanNmsw7.css",
+    "src": "../scss/style.scss",
+    "isEntry": true
+  },
+  "main.js": {
+    "file": "main-BFmXhMIj.js",
+    "name": "main",
+    "src": "main.js",
+    "isEntry": true,
+    "css": [
+      "style-DanNmsw7.css"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+.env
+.DS_Store
+npm-debug.log
+.sass-cache
+node_modules
+assets/sass/vendor
+package-lock.json
+yarn.lock
+*.map
+**/*.map
+
+/vendor/
