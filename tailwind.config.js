@@ -10,6 +10,7 @@ module.exports = {
     "./includes/*.php",
     "./template-parts/**/*.php",
     // or even "../**/*.php" if you want to scan everything
+    "./templates/*.html",
   ],
   theme: {
     extend: {
