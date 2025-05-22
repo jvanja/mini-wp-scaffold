@@ -1,6 +1,6 @@
 import "../scss/style.scss";
 
-console.log("Hello from main.js");
+console.log("Hello from main.js v4");
 
 document.addEventListener("DOMContentLoaded", () => {
   const h1 = document.createElement("h1");
