@@ -1,0 +1,1 @@
+/* empty css              */console.log("Hello from main.js v4");document.addEventListener("DOMContentLoaded",()=>{const e=document.createElement("h1");e.textContent="Hello, HMR is working!",document.body.appendChild(e)});
