@@ -18,5 +18,8 @@
     "tailwindcss": "^4.1.7",
     "vite": "latest",
     "vite-plugin-full-reload": "^1.2.0"
+  },
+  "dependencies": {
+    "embla-carousel": "^8.6.0"
   }
 }
