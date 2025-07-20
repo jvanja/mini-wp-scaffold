@@ -20,3 +20,7 @@ require_once 'includes/shortcodes.php';
  */
 require_once 'includes/head_tags.php';
 
+/**
+ * Remove WordPress bloatware
+ */
+require_once 'includes/remove_bloatware.php';
